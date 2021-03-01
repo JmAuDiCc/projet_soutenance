@@ -1,0 +1,22 @@
+_______________________________
+Projet main()
+
+lien git
+import/ trouver biblio nlp récente
+teste petit jeu données biblio
+
+teste import base données mysql
+
+gestion logs d'erreur 
+
+
+____________________________
+présentation
+
+trouver media prés°( ppt, prezie?)
+thème...
+
+
+
+___________________________________
+++ Minwey lire art LSTM
